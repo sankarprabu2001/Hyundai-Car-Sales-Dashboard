@@ -1,0 +1,44 @@
+Hyundai Car Sales Dashboard
+➤ This repository contains a Power BI dashboard visualizing Hyundai car sales data across multiple countries.
+
+1 Dashboard Features
+➤ Total Revenue and Customer Overview
+➤ Sales breakdown by:
+➤ Country
+➤ Car Model
+➤ Model Color
+
+2 Interactive filters:
+➤ Year (2020–2023)
+➤ Customer Gender
+➤ Car Model
+
+3 Built 
+➤ Power BI – for data visualization and interactive dashboard creation
+
+4 Files
+➤ Hyundai car sales data - csv
+
+5 Visual Charts Used
+
+KPI Cards
+• Total Customers
+• Total Revenue
+
+Bar Chart – Revenue by Car Color
+➤ Highlights the revenue generated from each car color
+
+Bar Chart – Revenue by Car Model
+➤ Compares sales performance across different Hyundai models.
+
+Stacked Column Chart – Model Sales by Country
+➤ Shows how different car models are sold across various countries
+
+Donut Chart – Customers by Country
+➤ Visualizes the distribution of total customers per country.
+
+Slicers (Filters)
+• Customer Gender
+• Year (2020–2023)
+• Model Type
+➤ Allow users to interactively filter data for deeper insights.
